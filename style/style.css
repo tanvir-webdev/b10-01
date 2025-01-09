@@ -72,3 +72,46 @@ nav{
     font-size: 20px;
     font-weight: 600;
 }
+
+/* ------------Why Web Development Section style---------------- */
+main{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.container{
+    background-color: #f3f5ffd5;
+    margin: 74px 150px 90px 150px;
+
+}
+
+.container-header{
+    padding: 80px 144px 40px 144px ;
+}
+
+.container-title{
+    font-size: 32px;
+    font-weight: 800;
+    color: #0D1321;
+    text-align: center;
+}
+
+.container-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0D1321;
+    text-align: center;
+}
+
+.contant{
+    display: flex;
+}
+
+.contant-item{
+    width: 70%;
+    border: 1px solid black;
+}
+
+.contant-img{
+    border: 1px solid black;
+}
